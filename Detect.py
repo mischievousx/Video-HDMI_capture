@@ -1,9 +1,9 @@
 # ------------ Information ------------
 # Author: Michievous Li
 # Date：2024.7.9
-# Usage：This file aims to display the video data in python and process the video data
+# Usage：This file aims to list the available device.
 # Reference：Orignal
-# My_Github：
+# My_Github：https://github.com/mischievousx/Video_HDMI_Capture
 # -------------------------------------
 
 import cv2

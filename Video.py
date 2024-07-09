@@ -1,9 +1,9 @@
 # ------------ Information ------------
 # Author: Michievous Li
 # Date：2024.7.9
-# Usage：This file 
+# Usage：This file aims to capture the video with "python + opencv".
 # Reference：https://www.geeksforgeeks.org/python-opencv-capture-video-from-camera/
-# My_Github：
+# My_Github：https://github.com/mischievousx/Video_HDMI_Capture
 # -------------------------------------
 
 import cv2  
