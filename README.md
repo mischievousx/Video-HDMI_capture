@@ -16,6 +16,6 @@ This project demonstrate the usage of Video Capturing with "Python + Opencv"
 
 ## Video Capturing of HDMI
 
-![alt text](<.\readme_image\read_image2.png>)
+![alt text](<./readme_image/read_image2.png>)
 
 ---
