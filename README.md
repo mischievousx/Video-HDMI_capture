@@ -10,7 +10,7 @@ This project demonstrate the usage of Video Capturing with "Python + Opencv"
 
 ## Video Capturing of PC Camera
 
-![alt text](<https://github.com/mischievousx/Video_HDMI_Capture/tree/main/readme_image/read_image1.png>)
+![alt text](<./readme_image/read_image1.png>)
 
 ---
 
